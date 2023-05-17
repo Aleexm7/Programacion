@@ -1,10 +1,11 @@
-package ejercicios.interfaces.parte3.test;
+package ejercicios.interfaces.parte2.test;
 
-import ejercicios.interfaces.parte3.*;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import org.junit.jupiter.api.Test;
+
+import ejercicios.interfaces.parte2.*;
 
 
 public class testFigura {
